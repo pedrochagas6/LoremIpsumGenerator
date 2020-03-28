@@ -1,0 +1,19 @@
+{
+  "name": "loremipsumgenerator",
+  "version": "1.0.0",
+  "description": "Gerador de Lorem ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pedrochagas6/LoremIpsumGenerator.git"
+  },
+  "author": "opedrochagas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pedrochagas6/LoremIpsumGenerator/issues"
+  },
+  "homepage": "https://github.com/pedrochagas6/LoremIpsumGenerator#readme"
+}
