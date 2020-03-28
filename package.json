@@ -1,0 +1,19 @@
+{
+  "name": "loremipsumgenerator",
+  "version": "1.0.0",
+  "description": "[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/pedrochagas6/LoremIpsumGenerator)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pedrochagas6/LoremIpsumGenerator.git"
+  },
+  "author": "pedrochagas6",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pedrochagas6/LoremIpsumGenerator/issues"
+  },
+  "homepage": "https://github.com/pedrochagas6/LoremIpsumGenerator#readme"
+}
