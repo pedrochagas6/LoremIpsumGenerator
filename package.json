@@ -1,8 +1,8 @@
 {
   "name": "loremipsumgenerator",
   "version": "1.0.0",
-  "description": "Gerador de Lorem ",
-  "main": "index.js",
+  "description": "[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/pedrochagas6/LoremIpsumGenerator)",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -10,8 +10,8 @@
     "type": "git",
     "url": "git+https://github.com/pedrochagas6/LoremIpsumGenerator.git"
   },
-  "author": "opedrochagas",
-  "license": "ISC",
+  "author": "pedrochagas6",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/pedrochagas6/LoremIpsumGenerator/issues"
   },
