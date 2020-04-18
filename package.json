@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/pedrochagas6/LoremIpsumGenerator/issues"
   },
-  "homepage": "https://github.com/pedrochagas6/LoremIpsumGenerator#readme"
+  "homepage": "https://github.com/pedrochagas6/LoremIpsumGenerator#readme",
+  "dependencies": {
+    "lorem-ipsum": "^2.0.3"
+  }
 }
